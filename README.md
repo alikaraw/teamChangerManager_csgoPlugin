@@ -2,10 +2,9 @@
 The plugin helps you manage the change team function in the game. Originally posted [here](https://forums.alliedmods.net/showthread.php?t=317424).
 
 ## Features 
-* Disable the join message for each team
-* Disable the ability to join each
+* Disable the join message for each team separately
+* Disable the ability to join each team separately 
 * Add cooldown to team changing
-* Disable all team joins
 
 ## ConVars
 |Name| Description|
